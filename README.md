@@ -2,6 +2,7 @@
 
 #Está presente a Questão 1:
 link para visualizar no expo.dev: https://snack.expo.dev/@italodasilva.ds/lista-de-produtos
+
 Cadastro de produtos:
   - Nome
   - Preço
@@ -9,6 +10,7 @@ Cadastro de produtos:
 
 #Questão 2:
 Link para visualizar no expo.dev: https://snack.expo.dev/@italodasilva.ds/lista-de-clientes
+
 Clientes:
   - Nome
   - CPF
@@ -19,6 +21,7 @@ Clientes:
 
 #Questão 3:
 Link para visualizar no expo.dev: https://snack.expo.dev/@italodasilva.ds/alunos
+
 Alunos:
  - Matrícula
  - Nome
